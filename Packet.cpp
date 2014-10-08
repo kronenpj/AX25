@@ -2,6 +2,7 @@
 #include "SRAM.h"
 #include <Arduino.h>
 #include <util/atomic.h>
+#include "NewDelete.h"
 
 #define PPOOL_SIZE 6
 /*static Packet pPool[PPOOL_SIZE];

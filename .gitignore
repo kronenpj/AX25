@@ -164,3 +164,8 @@ pip-log.txt
 
 Debug
 Release
+
+# Arduino build area
+applet
+*.o
+*.a

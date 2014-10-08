@@ -1,4 +1,3 @@
-#define F_CPU 16000000
 #define ARDUINO 100
 #include <avr/pgmspace.h>
 #include <Arduino.h>

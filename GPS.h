@@ -1,7 +1,6 @@
 #ifndef GPS_H
 #define GPS_H
 
-#define F_CPU 16000000
 #define ARDUINO 100
 #include <TinyGPS.h>
 
